@@ -2,6 +2,7 @@
 @import url(./video-de-fundo.css);
 @import url(./cabecalho.css);
 @import url(./info-principais.css);
+@import url(./responsivo.css);
 
 * {
   padding: 0;

@@ -1,0 +1,33 @@
+@media  screen and (max-width: 1020px) {
+   
+    /* TOPO */
+    .menu{
+        display: none;
+    }
+
+    .chapeu{
+        margin-left: 10%;
+    }
+
+    .icones-social{
+
+        display: none;
+    }
+
+    #mario-e-luigi{
+        flex-direction: column;
+    }
+
+    .informacoes-principais{
+        text-align: center;
+        margin-top: 10%;
+        padding: 8%;
+    }
+
+    .mario-and-luigi{
+        gap: 10%;
+    }
+
+    
+
+}
