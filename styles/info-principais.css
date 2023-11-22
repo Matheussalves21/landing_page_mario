@@ -10,25 +10,25 @@ main {
     max-width: 1440px;
 }
 
-.main-info{
+.informacoes-principais{
     width: 100%;
     max-width: 570px;
 
 }
 
-.main-info p{
+.informacoes-principais p{
     font-size: 18px;
     margin: 20px 0 28px;
 
 }
 
-.main-info div{
+.informacoes-principais div{
     display: flex;
     column-gap: 32px;
 
 }
 
-.main-info div a, .main-info div button{
+.informacoes-principais div a, .informacoes-principais div button{
     width: 100%;
     padding: 10px 0;
     border-radius: 3px;
@@ -42,11 +42,11 @@ main {
     transform: skew(-10deg);
 }
 
-.main-info div a{
+.informacoes-principais div a{
     background: var(--red);
 }
 
-.main-info div button{
+.informacoes-principais div button{
     background: transparent;
     border: 1px solid var(--green);
 }
