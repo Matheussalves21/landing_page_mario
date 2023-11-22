@@ -10,6 +10,10 @@ header {
     padding-top: 24px;
   }
   
+  .chapeu{
+    margin: 0 5% ;
+  }
+
   header img {
     width: 40px;
     height: auto;
@@ -20,6 +24,7 @@ header {
     align-items: center;
     column-gap: 48px;
     list-style: none;
+    
   }
   
   .menu-link {
@@ -61,6 +66,7 @@ header {
     display: flex;
     align-items: center;
     column-gap: 24px;
+    
   }
   
   .icones-social svg {
